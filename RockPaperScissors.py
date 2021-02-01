@@ -72,6 +72,7 @@ if play = False
         print('Du hast gewonnen!')
     elif ties > wins and ties > losses
         print('Es ist ein unentschieden!')
-        
+    elif wins = losses or wins = ties or losses = ties or losses = ties = wins
+        print('Du hast gemischte Resultate.')
         
 
