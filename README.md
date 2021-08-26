@@ -1,16 +1,5 @@
-# PythonCode-FFIN21
-My fucking python code
+//empty
 
-Read me
-
-keep reading me
-
-pls read me
-
-reading isnt fun stop
-
-dont read me
-
-stop reading me
-
-"im literlly the smartest programmer that has ever lived."
+.curl 
+vbool
+void string color(003222)
